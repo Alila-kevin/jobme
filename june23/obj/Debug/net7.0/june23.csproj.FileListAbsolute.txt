@@ -1,0 +1,15 @@
+D:\C#\june23\june23\bin\Debug\net7.0\june23.exe
+D:\C#\june23\june23\bin\Debug\net7.0\june23.deps.json
+D:\C#\june23\june23\bin\Debug\net7.0\june23.runtimeconfig.json
+D:\C#\june23\june23\bin\Debug\net7.0\june23.dll
+D:\C#\june23\june23\bin\Debug\net7.0\june23.pdb
+D:\C#\june23\june23\obj\Debug\net7.0\june23.csproj.AssemblyReference.cache
+D:\C#\june23\june23\obj\Debug\net7.0\june23.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\june23\june23\obj\Debug\net7.0\june23.AssemblyInfoInputs.cache
+D:\C#\june23\june23\obj\Debug\net7.0\june23.AssemblyInfo.cs
+D:\C#\june23\june23\obj\Debug\net7.0\june23.csproj.CoreCompileInputs.cache
+D:\C#\june23\june23\obj\Debug\net7.0\june23.dll
+D:\C#\june23\june23\obj\Debug\net7.0\refint\june23.dll
+D:\C#\june23\june23\obj\Debug\net7.0\june23.pdb
+D:\C#\june23\june23\obj\Debug\net7.0\june23.genruntimeconfig.cache
+D:\C#\june23\june23\obj\Debug\net7.0\ref\june23.dll
